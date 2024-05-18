@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: o;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+.head{
+    margin-top: 20px;
+    padding-left: 30px;
+}
+.head h1{
+    padding-bottom: 10px;
+}
+.head p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    padding-top: -30px;
+}
+.body{
+    background-color: bisque;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+}
+textarea{
+    margin-bottom: -6px;
+    margin-left: 40px;
+}
+.boot2{
+    margin-left: 23px;
+}
+.boot3{
+    margin-left: 41px;
+}
+.boot4{
+    margin-left: 34px;
+}
+.gender{
+    margin-left: -0.1px;
+}
+.big{
+    margin-top: 5px;
+    margin-left: -1px;
+}
+
+
+
+
+
+
